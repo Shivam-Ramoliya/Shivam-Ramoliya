@@ -37,7 +37,7 @@
 <h2 align="center">🌎 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/Shivam-Ramoliya" target="_blank">
+  <a href="https://github.com/Shivam-S-Ramoliya" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
   <a href="mailto:shivamramoliya2005@gmail.com" target="_blank">
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shivam-Ramoliya">
+  <a href="https://github.com/Shivam-S-Ramoliya">
     <img src="https://img.shields.io/badge/💼_Portfolio-Explore_My_Projects-D70000?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="mailto:shivamramoliya2005@gmail.com">
@@ -170,21 +170,31 @@
 
 <br>
 
- <h2  align="center">💼 Stats & Insights</h2>
+ <h2 align="center">💼 Stats & Insights</h2>
     
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-S-Ramoliya&theme=radical" alt="Profile Details" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam-S-Ramoliya&theme=radical" alt="Repos Per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam-S-Ramoliya&theme=radical" alt="Most Commit Language" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam-S-Ramoliya&theme=radical" alt="Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam-S-Ramoliya&theme=radical" alt="Productive Time" />
-  </p>
+<table align="center" style="border: none; border-collapse: collapse; background: transparent; width: 100%;">
+  <tr style="border: none; background: transparent;">
+    <td align="center" style="border: none; background: transparent; padding: 5px;">
+      <img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
+    </td>
+    <td align="center" style="border: none; background: transparent; padding: 5px;">
+      <img src="profile-summary-card-output/radical/3-stats.svg" alt="Stats" />
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td align="center" style="border: none; background: transparent; padding: 5px;">
+      <img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos Per Language" />
+    </td>
+    <td align="center" style="border: none; background: transparent; padding: 5px;">
+      <img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td align="center" colspan="2" style="border: none; background: transparent; padding: 5px;">
+      <img src="profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
