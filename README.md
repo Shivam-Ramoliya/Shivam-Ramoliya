@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=5000&pause=1000&color=D70000&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Shivam+Ramoliya;A+Passionate+Full-Stack+Developer+%26+AI+Learner;Building+Scalable+Apps+with+MERN+%26+Modern+Tech" alt="Animated header" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivam-Ramoliya&label=Profile%20Views&color=D70000&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Shivam-Ramoliya?label=Followers&style=for-the-badge&color=1E90FF" alt="GitHub followers" />
-</p>
-
 <br>
 
 <h2 align="center">🎮 My GitHub Activity Graph</h2>
@@ -52,7 +47,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shivam-S-Ramoliya">
+  <a href="https://shivam-s-ramoliya.vercel.app/">
     <img src="https://img.shields.io/badge/💼_Portfolio-Explore_My_Projects-D70000?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="mailto:shivamramoliya2005@gmail.com">
